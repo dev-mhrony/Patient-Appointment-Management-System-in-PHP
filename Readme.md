@@ -4,7 +4,7 @@
 
 2. Extract the file and copy dams folder
 
-3. Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/HTML)
+3. Paste inside root directory(for xampp xampp/htdocs, for Laragon Laragon/www)
 
 4. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
@@ -12,7 +12,7 @@
 
 6. Import damsmsdb.sql file(given inside the zip package in the SQL file folder)
 
-7. Run the script http://localhost/dams
+7. Run the script http://localhost/"Project Name"
 
 Doctor Login
 
