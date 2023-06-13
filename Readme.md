@@ -14,8 +14,15 @@
 
 7. Run the script http://localhost/"Project Name"
 
+
 Doctor Login
 
 Username: doctor@gmail.com
 
 Password: Watch This Video
+
+
+## Preview 
+----------------------------
+<img src="01.png">
+<img src="02.png">
